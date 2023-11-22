@@ -6,7 +6,8 @@ include:
 variables:
   SALSA_CI_DISABLE_BUILD_PACKAGE_ARM64: 0
   SALSA_CI_DISABLE_BUILD_PACKAGE_ARMHF: 0
-  RELEASE: 'testing'
+  SALSA_CI_DISABLE_VERSION_BUMP: 1
+  RELEASE: 'bookworm'
 
 # Piuparts doesn't like we are forcing a older version of a package
 piuparts:
