@@ -1,9 +1,10 @@
 Source: wayland-protocols
 Section: x11
 Priority: optional
-Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
-Uploaders: Héctor Orón Martínez <zumbi@debian.org>,
-           Emilio Pozuelo Monfort <pochu@debian.org>
+Maintainer: Toradex Packaging Team <debian-pkg-team@toradex.com>
+Uploaders: Abdur Rehman <abdur.rehman@toradex.com>,
+           Carlos Henrique Lima Melara <carlos.melara@toradex.com>,
+           Leonardo Held <leonardo.held@toradex.com>
 Build-Depends:
  debhelper (>=10),
  meson (>= 0.54.0),
