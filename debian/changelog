@@ -1,8 +1,11 @@
-wayland-protocols (1.25-1+toradex1) unstable; urgency=medium
+wayland-protocols (1.25+git20220208.a104fb6-0+toradex1) bookworm; urgency=medium
 
-  * NXP release lf-5.15.32-2.0.0
+  * New upstream version 1.25+git20220208.a104fb6.
+  * debian/control: add Toradex's maintainer email and uploaders.
+  * debian/gbp.conf: add default behaviour.
+  * debian/toradex-ci.yml: add CI tests.
 
- -- Abdur Rehman <abdur.rehman@toradex.com>  Sun, 09 Oct 2022 13:42:59 +0500
+ -- Carlos Henrique Lima Melara <carlos.melara@toradex.com>  Wed, 22 Nov 2023 16:52:52 -0300
 
 wayland-protocols (1.25-1) unstable; urgency=medium
 
