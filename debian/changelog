@@ -1,3 +1,11 @@
+wayland-protocols (1.32-1) bookworm; urgency=medium
+
+  [ Leonardo Held ]
+  * Import new release 1.32
+  * github: workflows: update to use unified workflow
+
+ -- Leonardo Held <leonardo.held@toradex.com>  Mon, 26 Aug 2024 22:25:27 -0300
+
 wayland-protocols (1.25+git20220208.a104fb6-0+toradex1) bookworm; urgency=medium
 
   * New upstream version 1.25+git20220208.a104fb6.
