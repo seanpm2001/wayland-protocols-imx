@@ -1,0 +1,9 @@
+Package:                     wayland-protocols-imx.git
+Version:                     1.32.imx
+Outgoing License:            MIT
+License File:                COPYING
+Type of Content:             source
+Description and comments:    Wayland protocol development
+Release Location:            https://github.com/nxp-imx/wayland-protocols-imx -b lf-6.1.36-2.1.0
+Origin:                      NXP (MIT)
+                             Weston (MIT) - https://anongit.freedesktop.org/git/wayland/wayland-protocols.git
